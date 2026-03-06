@@ -1,4 +1,4 @@
-markdown# Dice Roller MCP Server
+# Dice Roller MCP Server
 
 A Model Context Protocol (MCP) server that provides comprehensive dice rolling functionality for tabletop games, RPGs, and random number generation.
 
